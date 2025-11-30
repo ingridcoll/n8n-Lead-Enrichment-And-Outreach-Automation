@@ -1,0 +1,2 @@
+# n8n-new-lead-enrichment-and-outreach-automation
+Turns inbound leads from form submissions into fully qualified, enriched, and ready-to-outreach contacts, all without manual intervention. By combining company and lead enrichment, automated scoring, and AI-generated outreach, sales and marketing teams eliminate tedious research, and increase conversion by booking calls with warm leads immediately.
