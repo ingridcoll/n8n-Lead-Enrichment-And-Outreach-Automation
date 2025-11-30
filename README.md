@@ -1,6 +1,6 @@
 # Inbound Lead Enrichment and AI Personalized Outreach Automation with n8n
 ### How to Turn a “Contact Us” Form Submission Into a Fully Automated Lead Enrichment System
-### Technologies used: 
+Technologies used: 
 - *HubSpot* as the CRM
 - *Crunchbase* and *Bright Data* for scraping
 - *JavaScript* for cleaning and transforming data
@@ -8,8 +8,9 @@
 - *Slack* and *Gmail* for communications
 - *Asana* for task management
 
-### This system turns inbound leads from simple form submissions into fully qualified, enriched, and ready-to-outreach contacts, all without manual intervention. By combining company and lead enrichment, automated scoring, and AI-generated outreach, sales and marketing teams eliminate tedious research, reduce response times, and increase conversion by booking calls with warm leads immediately.
-#### This automation was created by *Ingrid Coll*. See my other projects on GitHub at [github.com/ingridcoll](https://github.com/ingridcoll) or send me a LinkedIn message at [linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/) with any questions or business inquiries!
+This system turns inbound leads from simple form submissions into fully qualified, enriched, and ready-to-outreach contacts, all without manual intervention. By combining company and lead enrichment, automated scoring, and AI-generated outreach, sales and marketing teams eliminate tedious research, reduce response times, and increase conversion by booking calls with warm leads immediately.
+
+This automation was created by *Ingrid Coll*. See my other projects on GitHub at [github.com/ingridcoll](https://github.com/ingridcoll) or send me a LinkedIn message at [linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/) with any questions or business inquiries!
 
 ## In PHASE 1: Company Enrichment...
 ### A simple company website field is turned into a fully validated, enriched company profile, automatically synced with the CRM.
